@@ -1,5 +1,4 @@
 .venv/
-<<<<<<< HEAD
 **/.venv/
 __pycache__/
 **/__pycache__/
@@ -7,9 +6,6 @@ __pycache__/
 .env
 *.log
 *:Zone.Identifier
-=======
-__pycache__/
-*.pyc
-.env
-*.log
->>>>>>> b4323b1 (docs: tambah blameless postmortem JOB 5)
+app.log
+ringkasan-log.txt
+
